@@ -1,60 +1,27 @@
 # FocusFlow
 
-A modern SaaS-style landing page for a productivity and task management platform.
+A fictional productivity platform landing page built with HTML and CSS.
 
-FocusFlow was my first project built completely from scratch using HTML and CSS.
+## Preview
 
-## 🚀 Overview
+![FocusFlow Preview](./preview.png)
 
-FocusFlow is a static landing page designed for a fictional productivity platform. The website presents the product, its features, pricing plans, user testimonials, and newsletter subscription section.
+## Features
 
-The project focuses on building a clean layout and practicing fundamental HTML and CSS concepts.
+- Hero section
+- Feature cards
+- Pricing plans
+- Testimonials
+- Newsletter section
+- Hover effects
 
-## ✨ Sections
+## Technologies
 
-* Navigation bar
-* Hero section
-* Product feature cards
-* Statistics section
-* Pricing plans
-* Customer testimonials
-* Newsletter subscription section
-* Footer with links and contact information
+- HTML5
+- CSS3
 
-## 🎨 UI & CSS
+## How to Run
 
-The project uses:
-
-* CSS Flexbox
-* CSS Grid
-* Box shadows
-* Hover animations
-* Responsive viewport configuration
-* Google Fonts (Poppins)
-* Card-based layouts
-* Buttons and form elements
-
-## 🛠️ Technologies
-
-* HTML5
-* CSS3
-
-## 📁 Project Structure
-
-```text
-FocusFlow/
-├── index.html
-└── style.css
-```
-
-## 📸 Preview
-
-Open `index.html` in a browser to view the website.
-
-## 📌 Note
-
-This is a static frontend project. Features such as authentication, task management, analytics, cloud synchronization, and newsletter subscriptions are currently represented as UI elements and are not connected to a backend.
-
-## 👨‍💻 About
-
-This project was built as a learning project to practice creating a complete webpage from scratch using HTML and CSS.
+1. Clone the repository.
+2. Open the project folder.
+3. Open `index.html` in your browser.
